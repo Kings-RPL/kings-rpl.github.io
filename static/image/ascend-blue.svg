@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40px" height="40px">
+  <g id="diagonal-stripes" fill="#13294B">
+      <polygon points="36 40 31 40 40 31 40 36 36 40"></polygon>
+      <polygon points="36 0 0 36 0 31 31 0 36 0"></polygon>
+  </g>
+</svg>
